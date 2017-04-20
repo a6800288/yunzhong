@@ -1,6 +1,8 @@
+service: yunzhong
 runtime: python27
 api_version: 1
 threadsafe: yes
+
 
 handlers:
 - url: .*
@@ -22,9 +24,7 @@ health_check:
   unhealthy_threshold: 2
   healthy_threshold: 2
 
-service: my-service
-runtime: python
-env: flex
+
 automatic_scaling:
   min_num_instances: 1
   max_num_instances: 5
