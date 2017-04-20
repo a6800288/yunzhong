@@ -34,7 +34,17 @@ automatic_scaling:
     
     
 libraries:
-- name: jinja2
-  version: "2.6"
-- name: markupsafe
-  version: "0.15"
+- name: flask-WTF
+  version: "latest"
+- name: flask
+  version: "latest"
+- name: pymongo
+  version: "latest"
+- name: flask-socketio
+  version: "latest"
+- name: flask-login
+  version: "latest"
+- name: flask-paginate
+  version: "latest"
+- name: eventlet
+  version: "latest"
