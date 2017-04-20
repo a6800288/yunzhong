@@ -8,13 +8,13 @@
 
 # Server Setting
 host = '0.0.0.0'
-port = 8080
+port = 80
 
-FB_APP_ID = '1439472146066464'
-FB_APP_SEC = '8ca478beed7230dc37da5169261acf80'
+FB_APP_ID = '606375202890357'
+FB_APP_SEC = '18c70ef2d5452e6fa052ad6fe9ff13c7'
 
 # Debug Mode , 0 = off , 1 = on
-debug = 1
+debug = 0
 
 # Server Log Dump Location
 s_log = '../Yakumo.log'
