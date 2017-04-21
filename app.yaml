@@ -34,9 +34,9 @@ automatic_scaling:
     
     
 libraries:
-- name: flask-WTF
-  version: "latest"
 - name: flask
+  version: "latest"
+- name: flask-WTF
   version: "latest"
 - name: pymongo
   version: "latest"
