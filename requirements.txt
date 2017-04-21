@@ -4,7 +4,7 @@
 # in `lib/` subdirectory.
 #
 # Note: The `lib` directory is added to `sys.path` by `appengine_config.py`.
--lxc==0.1
+lxc==0.1
 Flask==0.12.1
 Flask-Login==0.4.0
 Flask-SocketIO==2.8.6
