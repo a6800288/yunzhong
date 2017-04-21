@@ -37,24 +37,3 @@ automatic_scaling:
     target_utilization: 0.5
     
     
-libraries:
-- name: PIL
-  version: "1.1.7"
-- name: webob
-  version: "1.1.1"
-- name: flask
-  version: "latest"
-- name: markdown
-  version: "latest"
-- name: Flask-WTF
-  version: "latest"
-- name: pymongo
-  version: "latest"
-- name: Flask-socketio
-  version: "latest"
-- name: Flask-login
-  version: "latest"
-- name: Flask-paginate
-  version: "latest"
-- name: eventlet
-  version: "latest"
