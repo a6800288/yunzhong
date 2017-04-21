@@ -37,7 +37,7 @@ libraries:
 - name: Flask
   version: "0.10"
 - name: Markdown
-  version: "0.10"
+  version: "latest"
 - name: Flask-WTF
   version: "latest"
 - name: pymongo
