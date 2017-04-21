@@ -27,5 +27,5 @@ yourkey = 'jfowpppjwo9w??{{@@jrejk__'
 imgurkey = '0c2b6130b066faf'
 
 ##
-mongohost = 'mongodb://10.140.0.2:27017/'
+mongohost = 'mongodb://127.0.0.1:27017/'
 mongop = 27017
