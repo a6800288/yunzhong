@@ -34,17 +34,19 @@ automatic_scaling:
     
     
 libraries:
-- name: flask
-  version: "latest"
-- name: flask-WTF
+- name: Flask
+  version: "0.10"
+- name: Markdown
+  version: "0.10"
+- name: Flask-WTF
   version: "latest"
 - name: pymongo
   version: "latest"
-- name: flask-socketio
+- name: Flask-socketio
   version: "latest"
-- name: flask-login
+- name: Flask-login
   version: "latest"
-- name: flask-paginate
+- name: Flask-paginate
   version: "latest"
 - name: eventlet
   version: "latest"
